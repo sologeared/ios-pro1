@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Bankey
 //
-//  Created by Clendon Saunoa on 28/5/2022.
+// 
 //
 
 import UIKit
