@@ -19,7 +19,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window?.makeKeyAndVisible()
         window?.backgroundColor = .systemBackground
 //        window?.rootViewController = LoginViewController()
-        window?.rootViewController = OnboardingContainerViewController()
+//        window?.rootViewController = OnboardingContainerViewController() //copy the above line and change what we want to teset so we can see
+        window?.rootViewController = OnboardingViewController()
         
         return true
     }
